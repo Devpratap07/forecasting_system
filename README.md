@@ -96,5 +96,3 @@ uvicorn src.api:app --reload
 Models were evaluated on last 8 weeks of data per state.
 Best model was automatically selected based on lowest RMSE.
 
-## Author
-Dev Pratap
