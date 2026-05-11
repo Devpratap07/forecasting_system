@@ -1,0 +1,6 @@
+{
+  "Maharashtra": "xgb",
+  "Delhi": "prophet",
+  "Karnataka": "lstm",
+  "Tamil Nadu": "arima"
+}
